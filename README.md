@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello 👋 I'm Junior Fullstack Dev</h1>
 
 ###
 

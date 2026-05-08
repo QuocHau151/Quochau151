@@ -32,13 +32,23 @@
 
 ###
 
-💼 Senior Fullstack Developer & Solution Architect with 4+ years of experience
-⚡ Specialized in building scalable and high-performance web applications and mobile apps
-🛠️ Main stack: TypeScript, Next.js, Flutter, NestJS, PostgreSQL, Redis, Docker & Kubernetes
-☁️ Managing self-hosted infrastructure on Proxmox, Kubernetes and dedicated servers
-🚀 Operating homelab systems, providing VPS services and deploying production web platforms for businesses
-📈 Experienced in system architecture, CI/CD pipelines, monitoring, logging and DevOps workflows
-🔒 Focused on performance optimization, clean architecture and infrastructure reliability
+<p align="left">
+  <p>I'm Quoc Hau from Ho Chi Minh City 🇻🇳</p>
+
+  <p>💼 Senior Fullstack Developer & Solution Architect with 4+ years of experience</p>
+
+  <p>⚡ Specialized in building scalable and high-performance web applications and mobile apps</p>
+
+  <p>🛠️ Main stack: TypeScript, Next.js, Flutter, NestJS, PostgreSQL, Redis, Docker & Kubernetes</p>
+
+  <p>☁️ Managing self-hosted infrastructure on Proxmox, Kubernetes and dedicated servers</p>
+
+  <p>🚀 Operating homelab systems, providing VPS services and deploying production web platforms for businesses</p>
+
+  <p>📈 Experienced in system architecture, CI/CD pipelines, monitoring, logging and DevOps workflows</p>
+
+  <p>🔒 Focused on performance optimization, clean architecture and infrastructure reliability</p>
+</p>Focused on performance optimization, clean architecture and infrastructure reliability
 
 ###
 

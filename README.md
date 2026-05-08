@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Hello 👋 I'm Junior Fullstack Dev</h1>
+<h1 align="center">Hello 👋 I'm Middle Fullstack Dev</h1>
 
 ###
 
@@ -32,7 +32,13 @@
 
 ###
 
-<p align="left">I'm Quoc Hau from Ho Chi Minh City<br><br>- 🔭 I’m working as freelance form home<br>- ⚡ I'm fullstack web developer with Typescript<br>- 💻 I have a server running on Proxmox, used for VPS rental and hosting clients' websites publicly.<br>- 📚 I'm currently learning Expo, Flutter for mobile app and Go for microservices</p>
+💼 Senior Fullstack Developer & Solution Architect with 4+ years of experience
+⚡ Specialized in building scalable and high-performance web applications and mobile apps
+🛠️ Main stack: TypeScript, Next.js, Flutter, NestJS, PostgreSQL, Redis, Docker & Kubernetes
+☁️ Managing self-hosted infrastructure on Proxmox, Kubernetes and dedicated servers
+🚀 Operating homelab systems, providing VPS services and deploying production web platforms for businesses
+📈 Experienced in system architecture, CI/CD pipelines, monitoring, logging and DevOps workflows
+🔒 Focused on performance optimization, clean architecture and infrastructure reliability
 
 ###
 

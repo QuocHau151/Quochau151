@@ -35,7 +35,7 @@
 <p align="left">
   <p>I'm Quoc Hau from Ho Chi Minh City 🇻🇳</p>
 
-  <p>💼 Senior Fullstack Developer & Solution Architect with 4+ years of experience</p>
+  <p>💼 Middle Fullstack Developer & System Architect with 4+ years of experience</p>
 
   <p>⚡ Specialized in building scalable and high-performance web applications and mobile apps</p>
 
@@ -66,6 +66,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
